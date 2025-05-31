@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>智能库存管理系统</title>
+</head>
+<body>
+    <h1>当前库存</h1>
+    <table border="1">
+        <tr><th>商品名称</th><th>数量</th></tr>
+        {% for item, count in inventory.items() %}
+            <tr><td>{{ item }}</td><td>{{ count }}</td></tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

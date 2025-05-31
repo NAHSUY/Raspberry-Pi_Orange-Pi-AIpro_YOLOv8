@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": "2025-05-19T16:24:37.087812",
+    "items": [
+      "bus",
+      "person",
+      "person",
+      "person",
+      "person",
+      "stop sign"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:35:50.415814",
+    "items": [
+      "bus",
+      "person",
+      "person",
+      "person",
+      "person",
+      "stop sign"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:38:41.786324",
+    "items": [
+      "disk"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:39:38.983144",
+    "items": [
+      "bottle"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:39:41.321700",
+    "items": [
+      "bottle"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:39:52.776726",
+    "items": [
+      "mouse"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:40:01.193441",
+    "items": [
+      "mouse"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:40:02.804306",
+    "items": [
+      "mouse"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:40:47.282909",
+    "items": [
+      "disk"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:40:50.642913",
+    "items": [
+      "disk"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:41:05.823523",
+    "items": [
+      "box"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:41:06.551760",
+    "items": [
+      "box"
+    ]
+  },
+  {
+    "timestamp": "2025-05-23T20:41:06.789212",
+    "items": [
+      "box"
+    ]
+  },
+  {
+    "timestamp": "2025-05-31T17:41:29.953283",
+    "items": [
+      "disk"
+    ]
+  }
+]
